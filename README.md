@@ -15,7 +15,7 @@ The goal of this thesis is to explore and develop machine learning approaches fo
 
 ## Repository Structure
 
-├── Codes # codes for the dqn agent and supervised learning  
+├── Codes/ # codes for the dqn agent and supervised learning  
 ├── TestStand/ # CAD files for the test bench  
 ├── Dataset-Actions-Positions.txt # Open-source dataset of continuum robot motions  
 ├── thesis.pdf # Dissertation thesis in PDF format  
